@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adhil5108/leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/adhil5108/leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/adhil5108/leetcode/tree/master/0414-third-maximum-number) |
 ## String Matching
 |  |
 | ------- |
