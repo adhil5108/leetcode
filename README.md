@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhil5108/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adhil5108/leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhil5108/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -37,10 +39,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adhil5108/leetcode/tree/master/0414-third-maximum-number) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adhil5108/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
