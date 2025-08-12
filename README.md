@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhil5108/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adhil5108/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adhil5108/leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adhil5108/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adhil5108/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/adhil5108/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adhil5108/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adhil5108/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adhil5108/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adhil5108/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adhil5108/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adhil5108/leetcode/tree/master/0414-third-maximum-number) |
 ## String Matching
@@ -77,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
