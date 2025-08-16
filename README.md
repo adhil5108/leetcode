@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adhil5108/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
+| [1448-maximum-69-number](https://github.com/adhil5108/leetcode/tree/master/1448-maximum-69-number) |
 | [2556-convert-the-temperature](https://github.com/adhil5108/leetcode/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/adhil5108/leetcode/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/adhil5108/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
