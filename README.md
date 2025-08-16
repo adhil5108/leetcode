@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/adhil5108/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/adhil5108/leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/adhil5108/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
 | [2556-convert-the-temperature](https://github.com/adhil5108/leetcode/tree/master/2556-convert-the-temperature) |
@@ -90,9 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/adhil5108/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/adhil5108/leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adhil5108/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adhil5108/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
