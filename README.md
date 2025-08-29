@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/adhil5108/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adhil5108/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/adhil5108/leetcode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/adhil5108/leetcode/tree/master/1448-maximum-69-number) |
 | [2556-convert-the-temperature](https://github.com/adhil5108/leetcode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adhil5108/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhil5108/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/adhil5108/leetcode/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adhil5108/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adhil5108/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/adhil5108/leetcode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/adhil5108/leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adhil5108/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/adhil5108/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
