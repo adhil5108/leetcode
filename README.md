@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adhil5108/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adhil5108/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adhil5108/leetcode/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/adhil5108/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/adhil5108/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/adhil5108/leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/adhil5108/leetcode/tree/master/0782-jewels-and-stones) |
 | [1651-shuffle-string](https://github.com/adhil5108/leetcode/tree/master/1651-shuffle-string) |
 | [2235-capitalize-the-title](https://github.com/adhil5108/leetcode/tree/master/2235-capitalize-the-title) |
 ## Binary Search
