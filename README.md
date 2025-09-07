@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adhil5108/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adhil5108/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/adhil5108/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adhil5108/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1651-shuffle-string](https://github.com/adhil5108/leetcode/tree/master/1651-shuffle-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adhil5108/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/adhil5108/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/adhil5108/leetcode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adhil5108/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/adhil5108/leetcode/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/adhil5108/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/adhil5108/leetcode/tree/master/2556-convert-the-temperature) |
