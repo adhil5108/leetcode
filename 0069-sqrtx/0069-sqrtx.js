@@ -5,5 +5,5 @@
 var mySqrt = function(x) {
    let c= Math.sqrt(x)
    let d=Math.floor(c)
-   return d;
+   return d
 };
