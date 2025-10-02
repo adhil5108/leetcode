@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/adhil5108/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/adhil5108/leetcode/tree/master/2235-capitalize-the-title) |
 | [3194-find-words-containing-character](https://github.com/adhil5108/leetcode/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/adhil5108/leetcode/tree/master/3312-number-of-changing-keys) |
 ## Binary Search
 |  |
 | ------- |
