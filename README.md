@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adhil5108/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adhil5108/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/adhil5108/leetcode/tree/master/0782-jewels-and-stones) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/adhil5108/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhil5108/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/adhil5108/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/adhil5108/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/adhil5108/leetcode/tree/master/1651-shuffle-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/adhil5108/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhil5108/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adhil5108/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/adhil5108/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
