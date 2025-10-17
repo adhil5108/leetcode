@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/adhil5108/leetcode/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/adhil5108/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhil5108/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3859-maximum-product-of-two-digits](https://github.com/adhil5108/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/adhil5108/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/adhil5108/leetcode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/adhil5108/leetcode/tree/master/3778-transform-array-by-parity) |
+| [3859-maximum-product-of-two-digits](https://github.com/adhil5108/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## String Matching
 |  |
 | ------- |
