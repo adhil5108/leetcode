@@ -2,21 +2,13 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-var numberGame = function(nums) {
-    let arr = [];
-    while (nums.length > 0) {
-     
-        let aliceMinIndex = nums.indexOf(Math.min(...nums));
-        let aliceNum = nums.splice(aliceMinIndex, 1)[0];
-
-    
-        let bobMinIndex = nums.indexOf(Math.min(...nums));
-        let bobNum = nums.splice(bobMinIndex, 1)[0];
-
-        arr.push(bobNum);
-        arr.push(aliceNum);
+var numberGame = function (nums) {
+    let arr = []
+    nums.sort((a,b)=>a-b)
+    for (let i = 0; i < nums.length; i = i + 2) {
+     arr.push(nums[i+1])
+     arr.push(nums[i])
     }
-
-    return arr;
+    return arr 
 };
 
