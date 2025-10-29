@@ -8,5 +8,5 @@ var xorOperation = function (n, start) {
     for (let i = 0; i < n; i++) {
         arr[i] = start + 2 * i
     }
-    return arr.reduce((a,b)=>{return a^b},0)
+    return arr.reduce((a,b)=> a^b,0)
 };
