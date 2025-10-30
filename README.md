@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/adhil5108/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/adhil5108/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adhil5108/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adhil5108/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/adhil5108/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/adhil5108/leetcode/tree/master/1651-shuffle-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/adhil5108/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adhil5108/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/adhil5108/leetcode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adhil5108/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/adhil5108/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adhil5108/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhil5108/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/adhil5108/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/adhil5108/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/adhil5108/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adhil5108/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/adhil5108/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/adhil5108/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/adhil5108/leetcode/tree/master/3321-type-of-triangle) |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adhil5108/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
