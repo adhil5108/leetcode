@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/adhil5108/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/adhil5108/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adhil5108/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1480-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adhil5108/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/adhil5108/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
