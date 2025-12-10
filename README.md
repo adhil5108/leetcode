@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/adhil5108/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/adhil5108/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/adhil5108/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/adhil5108/leetcode/tree/master/1952-three-divisors) |
 | [2383-add-two-integers](https://github.com/adhil5108/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/adhil5108/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/adhil5108/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adhil5108/leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/adhil5108/leetcode/tree/master/1952-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/adhil5108/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Queue
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/adhil5108/leetcode/tree/master/0182-duplicate-emails) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/adhil5108/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
