@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/adhil5108/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/adhil5108/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/adhil5108/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/adhil5108/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/adhil5108/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adhil5108/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/adhil5108/leetcode/tree/master/1448-maximum-69-number) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/adhil5108/leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1448-maximum-69-number](https://github.com/adhil5108/leetcode/tree/master/1448-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/adhil5108/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Number Theory
