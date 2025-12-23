@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/adhil5108/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/adhil5108/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/adhil5108/leetcode/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/adhil5108/leetcode/tree/master/0796-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/adhil5108/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1408-string-matching-in-an-array](https://github.com/adhil5108/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/adhil5108/leetcode/tree/master/1651-shuffle-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adhil5108/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/adhil5108/leetcode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/adhil5108/leetcode/tree/master/1408-string-matching-in-an-array) |
 ## Divide and Conquer
 |  |
