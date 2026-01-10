@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/adhil5108/leetcode/tree/master/2752-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adhil5108/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/adhil5108/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/adhil5108/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adhil5108/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/adhil5108/leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhil5108/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -317,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/adhil5108/leetcode/tree/master/1952-three-divisors) |
+| [2843-count-symmetric-integers](https://github.com/adhil5108/leetcode/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
