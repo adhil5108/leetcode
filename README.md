@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/adhil5108/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adhil5108/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhil5108/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/adhil5108/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adhil5108/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/adhil5108/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/adhil5108/leetcode/tree/master/2235-capitalize-the-title) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/adhil5108/leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/adhil5108/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhil5108/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/adhil5108/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adhil5108/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3226-minimum-number-game](https://github.com/adhil5108/leetcode/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
