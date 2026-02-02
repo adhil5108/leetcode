@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/adhil5108/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/adhil5108/leetcode/tree/master/2843-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adhil5108/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/adhil5108/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3321-type-of-triangle](https://github.com/adhil5108/leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhil5108/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/adhil5108/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhil5108/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/adhil5108/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adhil5108/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/adhil5108/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3226-minimum-number-game](https://github.com/adhil5108/leetcode/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
 |  |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/adhil5108/leetcode/tree/master/1952-three-divisors) |
 | [2843-count-symmetric-integers](https://github.com/adhil5108/leetcode/tree/master/2843-count-symmetric-integers) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/adhil5108/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
