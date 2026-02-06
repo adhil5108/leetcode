@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/adhil5108/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/adhil5108/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/adhil5108/leetcode/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/adhil5108/leetcode/tree/master/2951-find-the-peaks) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/adhil5108/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/adhil5108/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/adhil5108/leetcode/tree/master/3226-minimum-number-game) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/adhil5108/leetcode/tree/master/1952-three-divisors) |
 | [2843-count-symmetric-integers](https://github.com/adhil5108/leetcode/tree/master/2843-count-symmetric-integers) |
+| [2951-find-the-peaks](https://github.com/adhil5108/leetcode/tree/master/2951-find-the-peaks) |
 ## Game Theory
 |  |
 | ------- |
