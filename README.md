@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/adhil5108/leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/adhil5108/leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/adhil5108/leetcode/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/adhil5108/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhil5108/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/adhil5108/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhil5108/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adhil5108/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/adhil5108/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3321-type-of-triangle](https://github.com/adhil5108/leetcode/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/adhil5108/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhil5108/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/adhil5108/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/adhil5108/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/adhil5108/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/adhil5108/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting Sort
 |  |
 | ------- |
