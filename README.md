@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/adhil5108/leetcode/tree/master/1816-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/adhil5108/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/adhil5108/leetcode/tree/master/2058-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/adhil5108/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhil5108/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adhil5108/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/adhil5108/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/adhil5108/leetcode/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/adhil5108/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/adhil5108/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2109-adding-spaces-to-a-string](https://github.com/adhil5108/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhil5108/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/adhil5108/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/adhil5108/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/adhil5108/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/adhil5108/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/adhil5108/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/adhil5108/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/adhil5108/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adhil5108/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/adhil5108/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/adhil5108/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/adhil5108/leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/adhil5108/leetcode/tree/master/2058-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/adhil5108/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhil5108/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/adhil5108/leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/adhil5108/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
